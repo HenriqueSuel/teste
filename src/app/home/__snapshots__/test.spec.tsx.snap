@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home Component deve renderizar corretamente 1`] = `
+<div
+  class="container mx-auto"
+>
+  <div
+    class="flex mt-5"
+    data-testid="aqui"
+  >
+    <input
+      class="px-2 py-1 border-2 border-blue-300 w-full"
+      type="text"
+    />
+    <button
+      class="ml-6 bg-blue-700 px-4 py-2 text-white rounded-lg hover:opacity-90"
+    >
+      Buscar
+    </button>
+  </div>
+</div>
+`;
